@@ -1,0 +1,7 @@
+
+########################################################
+Dhrystone 2 using register variables -- 1 copy
+==> "/home/masaki/Quest2Sandbox/byte-unixbench/UnixBench/pgms/dhry2reg" 10 2>&1 >> "/home/masaki/Quest2Sandbox/byte-unixbench/UnixBench/results/localhost-2020-11-23-01.log"
+
+#### Pass 1
+
